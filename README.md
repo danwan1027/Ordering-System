@@ -1,8 +1,10 @@
 <h3>執行方式<h3>
 將專案 git clone 下來
-進入專案後在terminal打 ```php artisan storage:link```<br>
-接著打 ```php artisan serve```<br>
-到瀏覽器貼上 `http://127.0.0.1:8000` 的網址就完成了<br>
+進入專案後在terminal下指令<br>
+ `php artisan storage:link`<br>
+接著打 <br>
+`php artisan serve`<br>
+到瀏覽器貼上 http://127.0.0.1:8000 的網址就完成了<br>
 
 <hr>
 
