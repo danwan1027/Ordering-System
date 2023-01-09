@@ -1,17 +1,17 @@
-<h3>執行方式<h3>
+<h3>執行方式</h3>
 將專案 git clone 下來
-進入專案後在terminal下指令<br>
+進入專案後在terminal下指令
+
 ```bash
 php artisan storage:link
 ```
-<br>
-接著打 <br>
+
+接著打
 ```bash
 php artisan serve
 ```
-<br>
-到瀏覽器貼上 http://127.0.0.1:8000 的網址就完成了<br>
 
+到瀏覽器貼上 http://127.0.0.1:8000 的網址就完成了<br>
 <hr>
 
 <h3>預設帳號：</h3>
@@ -19,7 +19,6 @@ php artisan serve
 廚師帳號：cook@gmail.com<br>   
 管理員帳號：manager@gmail.com<br>  
 密碼：test1234<br>
-<br>
 密碼限制：需有數字
 
 
